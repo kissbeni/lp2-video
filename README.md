@@ -2,7 +2,7 @@
 
 Did you know LP2 recordings on minidiscs have some empty padding space? Did you also know 7-8 of these bytes are (almost) completely ignored by decoders?
 
-Soooo, here is some insanity that allowed me to have a 10FPS 32x24 monochorme video crammed inside its own audio data; with it being still playable on all my MDLP (NE410, N510, MT80, MT280) players!
+Soooo, here is some insanity that allowed me to have a 10FPS 32x24 monochorme video crammed inside its own audio data; with it being still playable on all my MDLP (NE410, N510, MT180, MT280) players!
 
 ### Known Drawbacks
 
